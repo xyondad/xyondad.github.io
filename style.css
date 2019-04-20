@@ -11,6 +11,6 @@ body {
 p {
     color: blue;
 }
-p { border: solid; black;
-
-}
+p { 
+    border: 1px solid black;
+} 
